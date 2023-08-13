@@ -1,22 +1,19 @@
-<h3 align = "center">Hi there! My name is {your name} and I'm
+<h3 align = "center">Hi there! My name is Sanchita Varade and I'm
 currently a student pursuing a degree in Information Technology at
 Mumbai University.</h3>
 <br>
 # 💫 About Me:
-write about yourself
+Hi there! Myself Sanchita Varade, and I'm currently in second-year IT student. 
+I study in DBIT Kurla - West.
 <br>
 <br>
-# 📊 GitHub Stats:<h3 align = "center">Hi there! My name is {your name} and I'm
-currently a student pursuing a degree in Information Technology at
-Mumbai University.</h3>
-<br>
-# 💫 About Me:
-write about yourself
-<br>
-<br>
-# 📊 GitHub Stats:![](https://github-readmestats.vercel.app/api?username=sanchitavarade&theme=dark&hide_border
+# 📊 GitHub Stats:
+![](https://github-readme-
+stats.vercel.app/api?username=sanchitavarade&theme=dark&hide_border
 =false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streakstats.herokuapp.com/?user=sanchitavarade&theme=dark&hide_border=fal
+![](https://github-readme-streak-
+stats.herokuapp.com/?user=sanchitavarade&theme=dark&hide_border=fal
 se)<br/>
-![](https://github-readme-stats.vercel.app/api/toplangs/?username=sanchitavarade&theme=dark&hide_border=false&inclu
+![](https://github-readme-stats.vercel.app/api/top-
+langs/?username=sanchitavarade&theme=dark&hide_border=false&inclu
 de_all_commits=true&count_private=true&layout=compact)
