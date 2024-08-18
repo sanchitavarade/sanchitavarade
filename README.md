@@ -23,7 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanchitavarade&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitavarade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=sanchitavarade&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=sanchitavarade&label=Profile%20Views&pretty=false" />
 </a>
